@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 13,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit",
+        "source.fixAll": "explicit"
+    },
+    "git.ignoreLimitWarning": true
+}

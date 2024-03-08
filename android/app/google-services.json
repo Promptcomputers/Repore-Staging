@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967361097563",
+    "project_id": "repore-3d493",
+    "storage_bucket": "repore-3d493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967361097563:android:20c178bebce8961c46f47e",
+        "android_client_info": {
+          "package_name": "com.example.repore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967361097563-a4ttei3dmovu97d8t5n4kspq1ggtvar0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEvORJchSjq0BBrpyuBbJ_jjWIyhhYeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967361097563-a4ttei3dmovu97d8t5n4kspq1ggtvar0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
